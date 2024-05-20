@@ -1,0 +1,2 @@
+# query-challenge-removeDuplicateStudents
+query-challenge-removeDuplicateStudents
